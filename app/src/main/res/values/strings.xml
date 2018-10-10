@@ -5,4 +5,7 @@
     <string name="bmi_info">The body mass index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual.</string>
     <string name="ok">OK</string>
     <string name="your_bmi_is">Your BMI is</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="caculate_bmi">CACULATE BMI</string>
 </resources>
